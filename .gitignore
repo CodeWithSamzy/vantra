@@ -9,3 +9,7 @@ node_modules
 
 # vercel
 .vercel
+
+# agent tooling, regenerated locally by next dev
+AGENTS.md
+CLAUDE.md
